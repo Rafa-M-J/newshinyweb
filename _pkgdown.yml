@@ -11,4 +11,4 @@ navbar:
   components:
     hello:
       text: Hello
-      href: site/index.html
+      href: hello.html
