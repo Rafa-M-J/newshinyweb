@@ -1,0 +1,14 @@
+url: https://rafa-m-j.github.io/newshinyweb/
+template:
+  bootstrap: 5
+
+navbar:
+  structure:
+    left:
+    - home
+    - reference
+    - hello
+  components:
+    hello:
+      text: Hello
+      href: site/index.html
